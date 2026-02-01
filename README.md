@@ -18,7 +18,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-plain.svg" width="40" alt="Redis" />
 
   <!-- RabbitMQ -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-plain.svg" width="40" alt="RabbitMQ" />
+ <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/rabbitmq.svg"
+     width="40"
+     alt="RabbitMQ" />
 </p>
 
 <p align="center">
