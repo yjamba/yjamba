@@ -1,28 +1,10 @@
 <h1 align="center">Hi there 👋 I'm Zhanibek, a Go developer. </h1>
 
-<h3 align="left">I code with</h3>
+### I code with
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"
-       width="42"
-       style="vertical-align: middle; margin: 0 10px;" />
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"
-       width="42"
-       style="vertical-align: middle; margin: 0 10px;" />
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"
-       width="42"
-       style="vertical-align: middle; margin: 0 10px;" />
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg"
-       width="42"
-       style="vertical-align: middle; margin: 0 10px;" />
-
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/rabbitmq.svg"
-       width="42"
-       style="vertical-align: middle; margin: 0 10px;" />
-</p>
+| Go | Docker | PostgreSQL | Redis | RabbitMQ |
+|----|--------|------------|-------|----------|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" width="40"/> |
 
 
 <h3 align="left">My tg</h3>
