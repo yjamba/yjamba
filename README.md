@@ -1,31 +1,27 @@
 <h1 align="center">Hi there 👋 I'm Zhanibek, a Go developer. </h1>
 
 <h3 align="left">I code with</h3>
-<p align="left">
-  <!-- Go -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"
-     width="40"
-     style="vertical-align: middle; margin: 0 8px;"
-     alt="Go" />
 
-  <!-- Docker -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg" width="40"
-  style="vertical-align: middle; margin: 0 8px;" alt="Docker" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"
+       width="42"
+       style="vertical-align: middle; margin: 0 10px;" />
 
-  <!-- GitHub -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" style="vertical-align: middle; margin: 0 8px;" alt="GitHub" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"
+       width="42"
+       style="vertical-align: middle; margin: 0 10px;" />
 
-  <!-- PostgreSQL -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg" width="40" 
-  style="vertical-align: middle; margin: 0 8px;" alt="PostgreSQL" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"
+       width="42"
+       style="vertical-align: middle; margin: 0 10px;" />
 
-  <!-- Redis -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-plain.svg" width="40" style="vertical-align: middle; margin: 0 8px;" alt="Redis" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg"
+       width="42"
+       style="vertical-align: middle; margin: 0 10px;" />
 
-  <!-- RabbitMQ -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg"
-     width="40" style="vertical-align: middle; margin: 0 8px;"
-     alt="RabbitMQ" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/rabbitmq.svg"
+       width="42"
+       style="vertical-align: middle; margin: 0 10px;" />
 </p>
 
 
