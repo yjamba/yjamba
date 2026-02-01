@@ -1,9 +1,25 @@
 <h1 align="center">Hi there 👋 I'm Zhanibek, a Go developer. </h1>
 
-<h1 align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40" alt="Go" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" alt="Docker" />
-   </h1>
+<h3 align="left">I code with</h3>
+<p align="left">
+  <!-- Go -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-plain.svg" width="40" alt="Go" />
+
+  <!-- Docker -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg" width="40" alt="Docker" />
+
+  <!-- GitHub -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" alt="GitHub" />
+
+  <!-- PostgreSQL -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg" width="40" alt="PostgreSQL" />
+
+  <!-- Redis -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-plain.svg" width="40" alt="Redis" />
+
+  <!-- RabbitMQ -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-plain.svg" width="40" alt="RabbitMQ" />
+</p>
 
 <p align="center">
   <a href="https://t.me/yjamba" target="_blank">
