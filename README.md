@@ -18,11 +18,7 @@
   </a>
 </p>
 
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=yjamba&show_icons=true&theme=radical&hide_border=true" alt="yjamba's GitHub stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yjamba&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="150"/>
-</p>
+
 
 <br>
 
